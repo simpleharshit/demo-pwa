@@ -1,0 +1,301 @@
+[
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3eae682f-7728-4790-bc89-5667be98102f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4c99bd24-16fe-423d-a715-e904ad17ec8a"
+        ],
+        "classification": "PG",
+        "title": "The Big Life Fix with Simon Reeve",
+        "id": "20085378",
+        "name": "NZS_TheBigLifeFixWithSimonReeve",
+        "episode_count": "3",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&de38e8dd-13b6-4554-afc6-a594f34a91a5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a35d7823-8d83-45c5-9fa3-4eb5ddc91934"
+        ],
+        "classification": "PG13",
+        "title": "Blindspot",
+        "id": "20118064",
+        "name": "NZS_Blindspot",
+        "episode_count": "22",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0f2d047c-866c-4349-bf5e-47b09429519b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1c97dd59-82cd-4d99-87c3-566b89f0ad4d"
+        ],
+        "classification": "PG13",
+        "title": "Bright Lights",
+        "id": "20118028",
+        "name": "NZS_BrightLights",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7d8c4bdb-e135-4fa5-b91e-a19a02f5e779",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fd6940db-f5a4-425f-869d-6885399b3da3"
+        ],
+        "classification": "R",
+        "title": "Catastrophe",
+        "id": "20117970",
+        "name": "NZS_Catastrophe",
+        "episode_count": "6",
+        "genre": "Comedy"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c3b499ca-c3e4-4364-bec7-45219362d8bd",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9403104e-eb86-42d3-ad59-5ef7c9d862b4"
+        ],
+        "classification": "PG13",
+        "title": "The Fourth Phase",
+        "id": "20118186",
+        "name": "NZS_TheFourthPhase",
+        "episode_count": "1",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&21b8c447-0d84-4972-8a91-7f6b42922447",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f5f87b19-466c-4669-8a24-59298188ad58"
+        ],
+        "classification": "R",
+        "title": "The Goddamn Comedy Jam",
+        "id": "20118017",
+        "name": "NZS_TheGoddamnComedyJam",
+        "episode_count": "1",
+        "genre": "Comedy"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2c7313b8-0f31-46b7-bc57-8821c0f00af9",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&96229f4b-b33b-4db1-8a2f-8a7fbdfe9366"
+        ],
+        "classification": "PG13",
+        "title": "The Graham Norton Show",
+        "id": "20118155",
+        "name": "NZS_TheGrahamNortonShow",
+        "episode_count": "3",
+        "genre": "Lifestyle"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&629a3629-7311-47e8-bdbd-802fcbfcd60d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a71e1278-6ff9-4378-bacf-d06131d901a9"
+        ],
+        "classification": "PG",
+        "title": "Great Big Story: Gaming",
+        "id": "20118034",
+        "name": "NZS_GreatBigStoryGaming",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&284e88ee-846c-4d6f-9ef2-60813e7cbd3d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a08dfd2d-b622-4960-b46a-bc50421dda0d"
+        ],
+        "classification": "PG",
+        "title": "HardTalk: Sir Ian McKellen",
+        "id": "20118040",
+        "name": "NZS_HardTalkSirIanMcKellen",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6888a780-ae88-4fed-a292-b5c5b880ac87",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b8934b07-7f9e-482a-9051-7a8bbc3450d7"
+        ],
+        "classification": "PG13",
+        "title": "I Am Not Your Negro",
+        "id": "20118043",
+        "name": "NZS_IAmNotYourNegro",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&540cb107-289e-46c2-9ab2-6daf2f76c697",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2359597c-6019-4886-85cd-9eb840e05e16"
+        ],
+        "classification": "PG13",
+        "title": "People of Earth",
+        "id": "20072519",
+        "name": "NZS_PeopleOfEarth",
+        "episode_count": "10",
+        "genre": "Comedy"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&bf486b25-00b9-4d7a-bfae-112af9861215",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c0264754-8a37-40ac-a55d-5c5c598ea369"
+        ],
+        "classification": "PG",
+        "title": "Rainbow Days",
+        "id": "20126407",
+        "name": "NZS_RainbowDays",
+        "episode_count": "1",
+        "genre": "JapaneseLang"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&23ce91cd-1165-4fc9-80f8-4318f3f98d3b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1b9a95bb-4851-4907-bbb8-dfe1f2570dd5"
+        ],
+        "classification": "R",
+        "title": "Reset",
+        "id": "20085373",
+        "name": "NZS_Reset",
+        "episode_count": "2",
+        "genre": "Family"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8038d53f-5add-4f36-b00b-7ff20d753416",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2f1fb7c7-f4e4-438c-9dbe-fc3b6969625b"
+        ],
+        "classification": "R",
+        "title": "Roadies",
+        "id": "20074800",
+        "name": "NZS_Roadies",
+        "episode_count": "10",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f4dc5865-fa0e-4859-8679-a4a81d0b424a",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ef0fd5b7-af7a-42ab-8dca-31b892e4d5d5"
+        ],
+        "classification": "R",
+        "title": "Rock and a Hard Place",
+        "id": "20118047",
+        "name": "NZS_RockandaHardPlace",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9827cf17-3172-40dd-ac2f-1ff01e2a1865",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&09585e1e-ca97-49d0-a3b5-690c0f5f9d4c"
+        ],
+        "classification": "PG",
+        "title": "Singer 2017",
+        "id": "20126395",
+        "name": "NZS_Singer2017",
+        "episode_count": "1",
+        "genre": "ChineseLang"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8d909c66-9dec-4619-b4f5-dd328d76bcfa",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&63a54cbe-e650-4da9-8bbb-aa0dcaadbaa7"
+        ],
+        "classification": "PG13",
+        "title": "Snowbombing",
+        "id": "20118169",
+        "name": "NZS_Snowbombing",
+        "episode_count": "1",
+        "genre": "Music"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&62a2c2d6-4972-44ed-ac81-070454a9f582",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b88987d6-6af6-4e14-b33d-e8dfc886f65e"
+        ],
+        "classification": "PG13",
+        "title": "So Cosmo",
+        "id": "20118149",
+        "name": "NZS_SoCosmo",
+        "episode_count": "2",
+        "genre": "Lifestyle"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9d070641-282a-4038-84a6-2ec9cf8ae9f5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c2d61b6d-22b1-49f8-9327-93fe91f7391a"
+        ],
+        "classification": "PG",
+        "title": "Surfing the South Island of New Zealand",
+        "id": "20118184",
+        "name": "NZS_SurfingtheSouthIslandofNewZealand",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&19818d31-4d41-40f0-9a93-e5fd180eb6cd",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&587d1508-e8cf-426c-9eb2-666b3e1f094b"
+        ],
+        "classification": "R",
+        "title": "The Walking Dead",
+        "id": "20085382",
+        "name": "NZS_TheWalkingDead",
+        "episode_count": "8",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b23ad9c2-5bea-41fc-856b-b1d5939f8673",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&87ef155d-bd8f-4757-b9cd-b57cfd1592ca"
+        ],
+        "classification": "PG13",
+        "title": "Who Do You Think You Are?",
+        "id": "20085385",
+        "name": "NZS_WhoDoYouThinkYouAre",
+        "episode_count": "10",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ee25ece0-1dd8-4f98-a307-30bef9c090bf",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0e98366c-c277-4b9d-a41f-466d938af316"
+        ],
+        "classification": "PG13",
+        "title": "The Witness for the Prosecution",
+        "id": "20085383",
+        "name": "NZS_TheWitnessForTheProsecution",
+        "episode_count": "2",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ead82126-a00d-4a66-be8a-dddf8ea189c3",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&5764f4d2-8370-4d96-91e4-b3fcd33d8fc4"
+        ],
+        "classification": "PG, PG13",
+        "title": "World Rugby",
+        "id": "20085387",
+        "name": "NZS_WorldRugby",
+        "episode_count": "1",
+        "genre": "Rugby"
+    }
+]

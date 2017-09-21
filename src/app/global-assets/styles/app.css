@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: EtihadAltis-Text;
+    src: url(../fonts/EtihadAltis-Text.ttf);
+}
+
+@font-face {
+    font-family: EtihadAltis-Medium;
+    src: url(../fonts/EtihadAltis-Medium.ttf);
+}
+
+@font-face {
+    font-family: EtihadAltis-Light;
+    src: url(../fonts/EtihadAltis-Light.ttf);
+}
+
+@font-face {
+    font-family: EtihadAltis-Bold;
+    src: url(../fonts/EtihadAltis-Bold.ttf);
+} 
+
+@font-face {
+    font-family: EtihadAltis-Book;
+    src: url(../fonts/EtihadAltis-Book.ttf);
+}
+
+@font-face {
+    font-family: Arial-Regular;
+    src: url(../fonts/arial.ttf);
+}
+
+body{
+	margin: 0 auto !important;
+    font-family: 'EtihadAltis-Text';
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+

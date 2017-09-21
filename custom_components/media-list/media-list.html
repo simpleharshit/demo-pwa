@@ -1,0 +1,38 @@
+<dom-module id="media-list">
+  <link rel="import" type="css" href="media-list.css" />
+  <template>
+    <div id="mediaListContainer" class="container_list" align="center">
+      <form action="#" class="select-form">
+        <div class="col">
+          <label for="mediaGenreSelect"></label>
+          <div class="form-group">
+            <select class="form-control" id="mediaGenreSelect" name="mediaGenreSelect" on-change="genSel">
+              <option id="genre" value="" selected>All Genre</option>
+              <template is="dom-repeat" items="{{genreList}}" index-as="i">
+                <option id="genre" value="{{item}}">{{item}}</option>
+              </template>
+            </select>
+          </div>
+        </div>
+      </form>
+      <div class="handler" id="main">
+        <template is="dom-repeat" items="{{allData}}" index-as="i" class="media_list" as="item" filter={{filterBySelGenre(selected)}} >
+          <div id="mediaListHolder_{{i}}" class="media-list-holder">
+            <div class="mv">
+              <div class="img-container">
+              <img src$="{{getMediaInfo(item)}}" alt="image description">
+              </div>
+              <div class="mvinfo"> 
+                  <div class="mvtitle">{{item.title}}</div>
+                  <div class="mvdesc">
+                    <span>{{checkMetaData(item)}}</span>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </div>
+  </template>
+  <script src="media-list.component.js"></script>
+</dom-module>

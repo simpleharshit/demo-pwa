@@ -1,0 +1,1341 @@
+[
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7164b060-bb9f-41b2-998b-722c978ff87b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2baba918-a179-4686-856e-1df71d3c5f16"
+        ],
+        "classification": "R",
+        "title": "Alien: Covenant",
+        "duration_minute": "122",
+        "id": "20140522",
+        "name": "NZM_1709_AlienCovenant",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&408a9e32-b395-4727-a8c2-7ced6c545319",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ff62bf6d-93fa-421e-9ba0-8768d3c8f258"
+        ],
+        "classification": "R",
+        "title": "Baywatch",
+        "duration_minute": "116",
+        "id": "20140523",
+        "name": "NZM_1709_Baywatch",
+        "template": "movie",
+        "genre": "Comedy"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3a348952-788e-46f3-afdf-9c7b16590381",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0b7eece6-52af-4a03-bb57-818e96ea5cee"
+        ],
+        "classification": "PG13",
+        "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "duration_minute": "129",
+        "id": "20140530",
+        "name": "NZM_1709_PiratesoftheCaribbeanDeadMenTellNoTales",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&dc74dd5f-df24-49dd-a9f1-18d4ef32b07f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a719c509-7e4c-46ae-810a-31bd1c4e321f"
+        ],
+        "classification": "PG13",
+        "title": "The Fate of the Furious",
+        "duration_minute": "136",
+        "id": "20126440",
+        "name": "NZM_1708_TheFateoftheFurious",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b5c1e612-f5ce-4a4c-8615-f840627edbf5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6a27c15f-091a-45e3-806a-7627a7a0fc52"
+        ],
+        "classification": "PG13",
+        "title": "Ghost in the Shell",
+        "duration_minute": "107",
+        "id": "20126442",
+        "name": "NZM_1708_GhostintheShell",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0c3f61aa-c558-4d4e-8977-65bee362b6d8",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&83b0bc4a-5a12-4a94-99b4-c58b9ba31542"
+        ],
+        "classification": "PG13",
+        "title": "Guardians of the Galaxy Vol. 2",
+        "duration_minute": "136",
+        "id": "20126441",
+        "name": "NZM_1708_GuardiansoftheGalaxyVol2",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&53a9c514-91fe-4694-b3f2-d6462a0e5189",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9abd5f95-31d4-4bf7-abc1-2fda69db6ef4"
+        ],
+        "classification": "PG13",
+        "title": "Guardians of the Galaxy",
+        "duration_minute": "121",
+        "id": "20126446",
+        "name": "NZM_1708_GuardiansoftheGalaxy",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d7d975c7-70fd-41a8-9bc6-1f1703022d54",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&911de6bc-5eb1-47cb-94c5-02edb0007a4a"
+        ],
+        "classification": "R",
+        "title": "Snatched",
+        "duration_minute": "90",
+        "id": "20126417",
+        "name": "NZM_1708_Snatched",
+        "template": "movie",
+        "genre": "Comedy"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d63794fc-08b7-479f-aca9-a4092bcbec8a",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d5ed836b-bd6b-45ff-92e5-e51076a240c9"
+        ],
+        "classification": "PG13",
+        "title": "Power Rangers",
+        "duration_minute": "124",
+        "id": "20126443",
+        "name": "NZM_1708_PowerRangers",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&5a6e6956-3f9e-4dba-8b7a-1f1cd4ff172d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&dfe10ff6-236e-4e78-a0c8-86113fdce2b0"
+        ],
+        "classification": "R",
+        "title": "Sleepless",
+        "duration_minute": "95",
+        "id": "20120714",
+        "name": "NZM_1707_Sleepless",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&29a82416-2278-4e95-ad36-f705ad95dbe3",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6063aac2-7754-4eab-83cf-4b5bee16f2a3"
+        ],
+        "classification": "PG13",
+        "title": "Kong: Skull Island",
+        "duration_minute": "118",
+        "id": "20120709",
+        "name": "NZM_1707_KongSkullIsland",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&61a0c4e6-1f91-4a18-919d-d8fbdd444a42",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&033b2889-4e38-4b0c-b883-9f4e194d03a2"
+        ],
+        "classification": "R",
+        "title": "Chips",
+        "duration_minute": "100",
+        "id": "20120710",
+        "name": "NZM_1707_Chips",
+        "template": "movie",
+        "genre": "Comedy"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&efea9657-70cc-4092-b207-3b452702821b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9f270f29-fdb1-4768-9b6d-307566e4084f"
+        ],
+        "classification": "PG13",
+        "title": "Collide",
+        "duration_minute": "99",
+        "id": "20120713",
+        "name": "NZM_1707_Collide",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&885bac34-850d-4d11-a1e8-7434c2c513ba",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6d4f745e-dcc1-4168-bcfa-44ccba06bf61"
+        ],
+        "classification": "R",
+        "title": "AFK",
+        "id": "20140573",
+        "name": "NZS_AFK",
+        "episode_count": "11",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&80bd9eea-7bd4-49b8-ae53-ce6aa5ed3c17",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9966a6fe-45af-4b82-bc0c-0b5bb188526f"
+        ],
+        "classification": "PG13",
+        "title": "Gotham",
+        "id": "20072499",
+        "name": "NZS_Gotham",
+        "episode_count": "22",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&04d664ac-2b39-4c06-8f81-36c0a11626f5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&52e9578d-6f7f-4cb1-bddf-daca2cdc7a14"
+        ],
+        "classification": "R",
+        "title": "3:10 to Yuma",
+        "duration_minute": "122",
+        "id": "20140534",
+        "name": "NZM_1709_310toYuma",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&44c1ecd1-7940-4a6a-90ed-dfb78fb1fea8",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&65e9d1fa-2f43-4ce2-81da-49e2b0afcac6"
+        ],
+        "classification": "PG13",
+        "title": "The 100",
+        "id": "20118105",
+        "name": "NZS_The100",
+        "episode_count": "13",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4051f5bd-385d-4efb-af9f-440258ca210f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3fa14d41-a1f2-4bdf-b0e3-638549bdc271"
+        ],
+        "classification": "R",
+        "title": "300",
+        "duration_minute": "117",
+        "id": "20126427",
+        "name": "NZM_1708_300",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2b247fa9-fb33-4deb-95b5-07565d45eef6",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&28029988-af75-46a4-a832-d29013e4bead"
+        ],
+        "classification": "R",
+        "title": "300: Rise of an Empire",
+        "duration_minute": "102",
+        "id": "20126428",
+        "name": "NZM_1708_300RiseofanEmpire",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&427a461e-5895-4dea-a5c9-1dddaf6e4a6e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c479780d-9273-473d-9e40-ca8da5baa444"
+        ],
+        "classification": "R",
+        "title": "The Accountant",
+        "duration_minute": "128",
+        "id": "20074694",
+        "name": "NZM_1703_TheAccountant",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7e67fa63-f1c7-409d-bc2d-5a08fd765738",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b3599ce7-3cb4-4065-8781-0db1fc12532a"
+        ],
+        "classification": "R",
+        "title": "Alien",
+        "duration_minute": "117",
+        "id": "20074596",
+        "name": "NZM_1703_Alien",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&5ce436d3-8602-40ec-9061-bfadc0fa138c",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&35bc4f2e-207f-44e3-8b4a-f69e5ba55b2a"
+        ],
+        "classification": "R",
+        "title": "Aliens",
+        "duration_minute": "137",
+        "id": "20074599",
+        "name": "NZM_1703_Aliens",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3e786332-6ace-47fc-82d5-cf4239a25a28",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&03cfe644-9c39-403f-b68d-c197b121c529"
+        ],
+        "classification": "R",
+        "title": "Alien 3",
+        "duration_minute": "114",
+        "id": "20074597",
+        "name": "NZM_1703_Alien3",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&44b0d61d-0d3d-42e2-98b7-18af37f6431c",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3261a29f-4348-46a8-8725-6a7a06d6c52e"
+        ],
+        "classification": "R",
+        "title": "Alien Resurrection",
+        "duration_minute": "109",
+        "id": "20074598",
+        "name": "NZM_1703_AlienResurrection",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7c7c0608-f0bd-4b9f-af3d-f61d5f4fc96b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&401861ce-f932-466f-a83e-4d6aaa667407"
+        ],
+        "classification": "PG13",
+        "title": "Arrow",
+        "id": "20118059",
+        "name": "NZS_Arrow",
+        "episode_count": "23",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8b349b1c-2d3b-4a03-a682-f5682af1239c",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9bc07d01-b58f-4663-a95b-9d87a33d4449"
+        ],
+        "classification": "PG13",
+        "title": "Assassin's Creed",
+        "duration_minute": "115",
+        "id": "20085314",
+        "name": "NZM_1704_AssassinsCreed",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&210d89f2-b568-44f3-a9d1-5b86ab08c6ae",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3943ab36-24dd-4aed-b29d-c00a5eb8b787"
+        ],
+        "classification": "PG13",
+        "title": "Batman v Superman: Dawn of Justice",
+        "duration_minute": "151",
+        "id": "20074604",
+        "name": "NZM_1703_BatmanVSupermanDawnOfJustice",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e6282ea2-5837-4abb-815b-7307c0d6c0f7",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6aba5668-bd80-4d5d-a6bb-ce41d34ec3c8"
+        ],
+        "classification": "R",
+        "title": "Blade Runner",
+        "duration_minute": "117",
+        "id": "20120723",
+        "name": "NZM_1707_BladeRunner",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&de38e8dd-13b6-4554-afc6-a594f34a91a5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a35d7823-8d83-45c5-9fa3-4eb5ddc91934"
+        ],
+        "classification": "PG13",
+        "title": "Blindspot",
+        "id": "20118064",
+        "name": "NZS_Blindspot",
+        "episode_count": "22",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a46bdadd-b11a-4050-b53f-512c7d86601e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b86e4cda-6905-4938-999f-7a402b5db540"
+        ],
+        "classification": "R",
+        "title": "The Bodyguard",
+        "duration_minute": "129",
+        "id": "20106266",
+        "name": "NZM_1705_TheBodyguard",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4629be6d-5282-4dbc-ae36-bbde77c974f4",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a063e8a6-5692-46f9-b876-86bc9e554e6f"
+        ],
+        "classification": "PG",
+        "title": "Chisum",
+        "duration_minute": "101",
+        "id": "20120725",
+        "name": "NZM_1707_Chisum",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&5e29e0fa-748e-476c-a8b9-2e21b7ea0ce3",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2c4ddf81-7b61-4159-a8b0-5bd658bec26b"
+        ],
+        "classification": "R",
+        "title": "Commando",
+        "duration_minute": "90",
+        "id": "20074618",
+        "name": "NZM_1703_Commando",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d1e243a3-357b-4fb7-9e85-62bfaea6e298",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9c77f3ed-93ab-43e2-aa81-4fcd5f731517"
+        ],
+        "classification": "PG13",
+        "title": "Dawn of the Planet of the Apes",
+        "duration_minute": "130",
+        "id": "20126425",
+        "name": "NZM_1708_DawnofthePlanetoftheApes",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&47e7163b-96a2-4573-98b3-a6796fdb9d51",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&007ebcc7-4ab2-45f1-b2f0-9b0496119d57"
+        ],
+        "classification": "R",
+        "title": "Deadpool",
+        "duration_minute": "108",
+        "id": "20106243",
+        "name": "NZM_1705_Deadpool",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&301eadb2-fb5e-453e-812b-b0a06f77a96d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&69082819-7abb-4476-860b-f82c4c7a9362"
+        ],
+        "classification": "R",
+        "title": "Dirty Harry",
+        "duration_minute": "102",
+        "id": "20106244",
+        "name": "NZM_1705_DirtyHarry",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4ae3df35-a1b1-44a2-a4ed-4208ae58181f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0f955238-9f27-41c9-9188-9d2c08c1498a"
+        ],
+        "classification": "R",
+        "title": "Enter the Dragon",
+        "duration_minute": "102",
+        "id": "20120726",
+        "name": "NZM_1707_EntertheDragon",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&941e6119-24be-47bf-a703-f691d5c84e2f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b92cf134-826f-4424-a47f-220511740546"
+        ],
+        "classification": "PG13",
+        "title": "Fantastic Beasts and Where to Find Them",
+        "duration_minute": "108",
+        "id": "20072435",
+        "name": "NZM_1703_FantasticBeastsAndWhereToFindThem",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&eba87bd5-b288-48d6-951f-593d4ef11c03",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0fb815d8-1a31-4aaf-9713-8f3895ef4369"
+        ],
+        "classification": "PG13",
+        "title": "The Flash",
+        "id": "20118111",
+        "name": "NZS_TheFlash",
+        "episode_count": "23",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6a3293b8-64ff-41fd-b73f-1eb4bc2f2d36",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&877b2ba0-e67c-48a8-adc1-5f496bb01b41"
+        ],
+        "classification": "PG",
+        "title": "The Getaway",
+        "duration_minute": "123",
+        "id": "20120735",
+        "name": "NZM_1707_TheGetaway",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&25fc67bc-2ef8-4ecd-9ec6-51d8f661d41f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&abbab42b-c79d-4a6d-9e65-46ea34d2d94a"
+        ],
+        "classification": "R",
+        "title": "Goodbye Pork Pie",
+        "duration_minute": "90",
+        "id": "20106245",
+        "name": "NZM_1705_GoodbyePorkPie",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&887b688b-a7a0-473e-9148-09af052abce6",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f2397125-9a92-442b-93f1-ad915306659e"
+        ],
+        "classification": "R",
+        "title": "Hardcore Henry",
+        "duration_minute": "96",
+        "id": "20140531",
+        "name": "NZM_1709_HardcoreHenry",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d6f2ce08-427f-4197-90ba-ec82da691307",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&90f9f2b1-1725-4ba0-9c18-c2221986fd1a"
+        ],
+        "classification": "PG",
+        "title": "Harper",
+        "duration_minute": "121",
+        "id": "20120727",
+        "name": "NZM_1707_Harper",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c69c0927-7ac1-4daa-a4c2-b5473657ae1c",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c76002f3-31a0-47de-9d5b-4f7833eb5a05"
+        ],
+        "classification": "PG",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "duration_minute": "101",
+        "id": "20072445",
+        "name": "NZM_1703_HarryPotterAndTheSorcerersStone",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b58295b2-0da8-403d-9c26-e8aec416ead9",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&39ef6fa1-97ba-4e28-a8be-2824db6c5b7d"
+        ],
+        "classification": "PG",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "duration_minute": "100",
+        "id": "20072438",
+        "name": "NZM_1703_HarryPotterAndTheChamberOfSecrets",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&22305fdc-e324-48dd-9cb6-b889cc5f4d50",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&72888f87-9d8d-413d-bcda-26b58930118c"
+        ],
+        "classification": "PG",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "duration_minute": "117",
+        "id": "20072444",
+        "name": "NZM_1703_HarryPotterAndThePrisonerOfAzkaban",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ac1426cb-2f4d-46c9-8e69-d0e2054e03d3",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&195f27b2-0991-4ec0-a717-c45786f39125"
+        ],
+        "classification": "PG13",
+        "title": "Harry Potter and the Goblet of Fire",
+        "duration_minute": "150",
+        "id": "20072441",
+        "name": "NZM_1703_HarryPotterAndTheGobletOfFire",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&14716141-1c88-4857-a56f-2fde901c0368",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4809d7e6-effe-4d9d-8045-b753289ac0a1"
+        ],
+        "classification": "PG13",
+        "title": "Harry Potter and the Order of the Phoenix",
+        "duration_minute": "139",
+        "id": "20072443",
+        "name": "NZM_1703_HarryPotterAndTheOrderOfThePhoenix",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0b158ca4-7bf2-4c4a-9b35-b7d573008193",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2e9966a2-70fc-4375-bc41-d3da781dfd14"
+        ],
+        "classification": "PG",
+        "title": "Harry Potter and the Half-Blood Prince",
+        "duration_minute": "120",
+        "id": "20072442",
+        "name": "NZM_1703_HarryPotterAndTheHalfBloodPrince",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8ea15fdc-1565-4d80-a2e7-e798ab4aeba6",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&77ca2536-068c-42e9-8fea-c0ec4c8aae4d"
+        ],
+        "classification": "PG13",
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "duration_minute": "119",
+        "id": "20072439",
+        "name": "NZM_1703_HarryPotterAndTheDeathlyHallowsPart1",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8fc2e3f3-33c1-4b6a-98c6-962a3fdbcf40",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&61224273-6f02-4879-8f08-07dfc4399b6d"
+        ],
+        "classification": "PG-13",
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "duration_minute": "144",
+        "id": "20072440",
+        "name": "NZM_1703_HarryPotterAndTheDeathlyHallowsPart2",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f3d5cab1-3bc7-4a2b-b9b6-ece3db2e4731",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fd89e4a0-ef2c-4f14-8b2b-c3bbf0129ba8"
+        ],
+        "classification": "R",
+        "title": "Heat",
+        "duration_minute": "170",
+        "id": "20085330",
+        "name": "NZM_1704_Heat",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&810bec63-978d-4cd4-8ed0-9595ab46fe05",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b79f2a3d-686d-423c-bfef-3b40f71b838f"
+        ],
+        "classification": "PG13",
+        "title": "The Hobbit: An Unexpected Journey",
+        "duration_minute": "169",
+        "id": "20085346",
+        "name": "NZM_1704_TheHobbitAnUnexpectedJourney",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&142e8451-af3c-4b08-93c7-c9864865a3d6",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&23abcb42-b03c-42c8-bd77-d1ea4f4a0512"
+        ],
+        "classification": "PG13",
+        "title": "The Hobbit: The Desolation of Smaug",
+        "duration_minute": "161",
+        "id": "20085347",
+        "name": "NZM_1704_TheHobbitTheDesolationOfSmaug",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e0f92a3d-c11c-414d-8846-e065367c9bd1",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&96e6e8d7-468e-450e-b87e-4934f749489f"
+        ],
+        "classification": "PG13",
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "duration_minute": "144",
+        "id": "20085348",
+        "name": "NZM_1704_TheHobbitTheBattleOfTheFiveArmies",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&95b6c011-23eb-40ca-8007-c58c96073f2b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4c1e749b-3efe-49fe-a321-1997f5d39378"
+        ],
+        "classification": "PG13",
+        "title": "The Hunger Games",
+        "duration_minute": "142",
+        "id": "20140553",
+        "name": "NZM_1709_TheHungerGames",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ed565654-2d07-40f6-a7c5-cab0e8aa2371",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b888ca3b-bd77-4bee-a702-83f978fd37e5"
+        ],
+        "classification": "PG13",
+        "title": "The Hunger Games: Catching Fire",
+        "duration_minute": "146",
+        "id": "20140554",
+        "name": "NZM_1709_TheHungerGamesCatchingFire",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f592050c-8dd2-4e37-bab4-2b2497ce6e69",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&32b66094-d23c-46dd-b14a-075f644484af"
+        ],
+        "classification": "PG13",
+        "title": "The Hunger Games: Mockingjay \u2013 Part 1",
+        "duration_minute": "123",
+        "id": "20140555",
+        "name": "NZM_1709_TheHungerGamesMockingjayPart1",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&212c74e9-8c1a-448f-a91a-29478cc2df5d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&bc15b3aa-23e1-44c5-b5eb-fcad8442760a"
+        ],
+        "classification": "PG13",
+        "title": "The Hunger Games: Mockingjay \u2013 Part 2",
+        "duration_minute": "137",
+        "id": "20140556",
+        "name": "NZM_1709_TheHungerGamesMockingjayPart2",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&20c66507-e03c-4e32-b3ab-d32160f514da",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3bf11baf-9f53-402d-8fe3-82dfcc870f4e"
+        ],
+        "classification": "PG13",
+        "title": "John Q",
+        "duration_minute": "116",
+        "id": "20085343",
+        "name": "NZM_1704_JohnQ",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&736ab3e5-78f9-41b7-8c19-3af2f466a3b1",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3f9e2425-b326-44e5-8f46-9f4d7cc44827"
+        ],
+        "classification": "R",
+        "title": "Justice League Dark",
+        "duration_minute": "75",
+        "id": "20106248",
+        "name": "NZM_1705_JusticeLeagueDark",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&365b1a16-66c7-4662-b0c7-862d2e072a1b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&93f3ad9c-0be9-4980-bbec-f91f249f5587"
+        ],
+        "classification": "PG13",
+        "title": "Keeping Up with the Joneses",
+        "duration_minute": "105",
+        "id": "20074658",
+        "name": "NZM_1703_KeepingUpWithTheJoneses",
+        "template": "movie",
+        "genre": "Comedy"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b8814334-6de2-4e66-8250-adf5b80e228e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1aec27a3-3aee-458b-b231-a29085d8b14c"
+        ],
+        "classification": "PG13",
+        "title": "Legends of Tomorrow",
+        "id": "20118071",
+        "name": "NZS_LegendsofTomorrow",
+        "episode_count": "17",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7f17d90b-2998-459a-aecf-3b9a82b63d32",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fc509a37-65dc-432e-aef0-987b61a05ccb"
+        ],
+        "classification": "PG13",
+        "title": "Legion",
+        "id": "20120757",
+        "name": "NZS_Legion",
+        "episode_count": "8",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&68b27e01-69b8-47e1-9f1f-07ce003bde77",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fdf6ae14-64ea-4b7e-81cb-6de9f5c50802"
+        ],
+        "classification": "PG13",
+        "title": "Lethal Weapon",
+        "id": "20118077",
+        "name": "NZS_LethalWeapon",
+        "episode_count": "18",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&499fe4bd-ab9d-464f-b4a3-16664e4ced33",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&219265dc-bd30-4984-9f61-8942afacdfe1"
+        ],
+        "classification": "R",
+        "title": "Lethal Weapon",
+        "duration_minute": "110",
+        "id": "20085341",
+        "name": "NZM_1704_LethalWeapon",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d8ddd2c9-67e4-4f75-a9be-0fad6aeba8d4",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fc883dc4-16e6-4b45-8947-efb36255262e"
+        ],
+        "classification": "R",
+        "title": "Logan",
+        "duration_minute": "137",
+        "id": "20117570",
+        "name": "NZM_1706_Logan",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3988d918-0c87-47a6-970b-9f01d720438b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&bdf4536b-d5fb-4064-bbdc-a547636a9748"
+        ],
+        "classification": "PG13",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "duration_minute": "178",
+        "id": "20085349",
+        "name": "NZM_1704_TheLordOfTheRingsTheFellowshipOfTheRing",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&813673ba-95c9-4c45-8058-7c4cfaaf4376",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&317b637a-f420-4cb2-96b6-9152f13538fb"
+        ],
+        "classification": "PG13",
+        "title": "The Lord of the Rings: The Two Towers",
+        "duration_minute": "179",
+        "id": "20085350",
+        "name": "NZM_1704_TheLordOfTheRingsTheTwoTowers",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e63f2194-a6a2-46a1-92a9-9d918c9228f9",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&296fc4f4-5799-4b75-817f-5c11653e6e72"
+        ],
+        "classification": "PG13",
+        "title": "The Lord of the Rings: The Return of the King",
+        "duration_minute": "201",
+        "id": "20085351",
+        "name": "NZM_1704_TheLordOfTheRingsTheReturnOfTheKing",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&36635a3d-505d-455f-9fd6-47a16e12c849",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1b999bae-621d-48e1-b492-1a50e7323248"
+        ],
+        "classification": "R",
+        "title": "Man on Fire",
+        "duration_minute": "146",
+        "id": "20085326",
+        "name": "NZM_1704_ManOnFire",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c918e2b5-8b70-45f0-8f93-710a31d145ec",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&868c1993-8e5b-4158-8499-9dfc9ec2017b"
+        ],
+        "classification": "R",
+        "title": "Mean Streets",
+        "duration_minute": "112",
+        "id": "20106254",
+        "name": "NZM_1705_MeanStreets",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2e7df4c1-ec2b-4ad7-b02c-0709e07f2af0",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f66057a0-f0a9-4d22-96d7-6d4e2d074c5b"
+        ],
+        "classification": "R",
+        "title": "Miller's Crossing",
+        "duration_minute": "115",
+        "id": "20126438",
+        "name": "NZM_1708_MillersCrossing",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e7ca473a-9d44-40b4-b6f5-0232134ab5cc",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&5ab49074-bbb0-47ca-80e1-28801bda4a2b"
+        ],
+        "classification": "PG13",
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "duration_minute": "127",
+        "id": "20074672",
+        "name": "NZM_1703_MissPeregrinesHomeForPeculiarChildren",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3f31c549-c1ea-42b3-b1d6-4ee337b4f5ce",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8d53dd9b-171e-4052-9083-b918b2903c9a"
+        ],
+        "classification": "PG13",
+        "title": "The Next Three Days",
+        "duration_minute": "133",
+        "id": "20106270",
+        "name": "NZM_1705_TheNextThreeDays",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&abf96ce3-2271-4ea5-b393-36046f2b515d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e4bc13d9-efdb-4f99-8d9f-9dfe1ca6dd4c"
+        ],
+        "classification": "R",
+        "title": "Pale Rider",
+        "duration_minute": "115",
+        "id": "20106257",
+        "name": "NZM_1705_PaleRider",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d8c3b14c-352e-41d4-aad8-58d51549795a",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e41d2140-b341-4b1e-ae37-41caa3f8a69a"
+        ],
+        "classification": "PG",
+        "title": "Pan",
+        "duration_minute": "111",
+        "id": "20085345",
+        "name": "NZM_1704_Pan",
+        "template": "movie",
+        "genre": "Family"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3f5c2fea-951c-43fb-8b12-a1708049d96c",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&399c17db-7404-4752-8862-d778850d4224"
+        ],
+        "classification": "PG13",
+        "title": "The Pelican Brief",
+        "duration_minute": "141",
+        "id": "20085344",
+        "name": "NZM_1704_ThePelicanBrief",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&53b1894a-5d70-4877-8419-1a7d10561880",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d0d71ef6-7b67-448d-a49f-2396df0d1bfb"
+        ],
+        "classification": "PG",
+        "title": "Planet of the Apes",
+        "duration_minute": "112",
+        "id": "20126426",
+        "name": "NZM_1708_PlanetoftheApes",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0dfbb740-cc6d-40ab-bfc5-ff173617d245",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&db72dc04-ead5-49ca-ab47-4912b8c87129"
+        ],
+        "classification": "R",
+        "title": "Predator",
+        "duration_minute": "107",
+        "id": "20074681",
+        "name": "NZM_1703_Predator",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&89dcc458-49a6-409e-bd77-359d3d3259d7",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b5dbdfa9-77c4-488d-96a0-b8c2e6ac32d9"
+        ],
+        "classification": "R",
+        "title": "Predator 2",
+        "duration_minute": "108",
+        "id": "20120730",
+        "name": "NZM_1707_Predator2",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6414c00d-065b-47a0-9a2f-2de39202cf2d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&28f7c46b-bfb5-4ab0-a97c-8f9bd0905028"
+        ],
+        "classification": "R",
+        "title": "Prometheus",
+        "duration_minute": "124",
+        "id": "20074682",
+        "name": "NZM_1703_Prometheus",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4a4134ea-88e8-4476-9537-5081ac867fe7",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0953869a-0d96-4c59-8224-4e3f4d243f1e"
+        ],
+        "classification": "PG",
+        "title": "Rio Bravo",
+        "duration_minute": "141",
+        "id": "20120731",
+        "name": "NZM_1707_RioBravo",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1da96653-90e2-459a-9d73-7ecef7c5133a",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&cbf7946a-ff5e-43ce-b40a-4a138cc47c1e"
+        ],
+        "classification": "PG13",
+        "title": "Rise of the Planet of the Apes",
+        "duration_minute": "105",
+        "id": "20126424",
+        "name": "NZM_1708_RiseofthePlanetoftheApes",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4ac7b54a-143f-41d7-b4c5-418ff6a3369c",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&20c9b2be-c19f-4496-813c-2ebace54f6f5"
+        ],
+        "classification": "R",
+        "title": "Sleeping With the Enemy",
+        "duration_minute": "99",
+        "id": "20140540",
+        "name": "NZM_1709_SleepingWiththeEnemy",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&cffef5be-9e7e-46db-8ce6-fd601a4d5a05",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&cb661ca4-b851-43cf-8d63-cf7a1022fd77"
+        ],
+        "classification": "R",
+        "title": "Snakeskin",
+        "duration_minute": "94",
+        "id": "20140546",
+        "name": "NZM_1709_Snakeskin",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&bcb84f90-deac-4de4-a762-eb2b39163025",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fb7e0890-6f3a-4271-b37a-e10c3410e8ed"
+        ],
+        "classification": "R",
+        "title": "Speed",
+        "duration_minute": "116",
+        "id": "20117741",
+        "name": "NZM_1706_Speed",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4f645ed8-228c-4bfd-a96c-f1f4e97d4147",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d932b805-aa23-4758-b47f-a5885d2c6f6c"
+        ],
+        "classification": "PG13",
+        "title": "Suicide Squad",
+        "duration_minute": "123",
+        "id": "20117893",
+        "name": "NZM_1706_SuicideSquad",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fbacef8f-b6a5-46fe-8969-dca82044f803",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4724ed30-acb9-41bd-9f78-44c1479cf1b7"
+        ],
+        "classification": "R",
+        "title": "Superfly",
+        "duration_minute": "93",
+        "id": "20120732",
+        "name": "NZM_1707_Superfly",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&143d305f-497b-4dc7-8d43-9345659b8322",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&322cc392-a652-4ddb-ae6f-83aa517ad334"
+        ],
+        "classification": "PG13",
+        "title": "Supergirl",
+        "id": "20118088",
+        "name": "NZS_Supergirl",
+        "episode_count": "22",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2ebd126a-019c-4f88-a006-deaed0941f76",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&19dbc069-6de0-400d-a99a-e692da9cb162"
+        ],
+        "classification": "PG13",
+        "title": "Supernatural",
+        "id": "20118093",
+        "name": "NZS_Supernatural",
+        "episode_count": "23",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&10671ffd-5425-487d-bcaf-439cb30177f1",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3ca68757-1871-4d25-8519-15ce8386dcd2"
+        ],
+        "classification": "R",
+        "title": "Syriana",
+        "duration_minute": "128",
+        "id": "20085340",
+        "name": "NZM_1704_Syriana",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8ce6269c-6677-485c-a2f8-3601b072fc31",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8351282a-99a7-4c09-9ae6-c27f3640b9a6"
+        ],
+        "classification": "PG13",
+        "title": "This Means War",
+        "duration_minute": "103",
+        "id": "20074722",
+        "name": "NZM_1703_ThisMeansWar",
+        "template": "movie",
+        "genre": "Comedy"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c11e4918-b1ab-4691-994a-87d263f3a332",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ce59d007-4506-41bb-a0d5-c29023f1fe0a"
+        ],
+        "classification": "PG13",
+        "title": "Training Day",
+        "id": "20118122",
+        "name": "NZS_TrainingDay",
+        "episode_count": "13",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1ec2665e-0347-48d0-8f1a-fea8fa23a2b2",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&700e8d27-1bff-4228-a9ed-ab3eb70913f2"
+        ],
+        "classification": "R",
+        "title": "True Lies",
+        "duration_minute": "141",
+        "id": "20117667",
+        "name": "NZM_1706_TrueLies",
+        "template": "movie",
+        "genre": "Comedy"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&45c65231-af85-47fc-8175-2ccbd586d116",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f3fc5755-6c72-4af5-9d44-dd566c002f7e"
+        ],
+        "classification": "R",
+        "title": "Unforgiven",
+        "duration_minute": "131",
+        "id": "20106272",
+        "name": "NZM_1705_Unforgiven",
+        "template": "movie",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6283e6ed-51f9-4b5a-b985-8fc301b7ba7b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&418df9a0-5b3f-4ef9-8170-b8d6f2b01b6b"
+        ],
+        "classification": "PG13",
+        "title": "The Vampire Diaries",
+        "id": "20118116",
+        "name": "NZS_TheVampireDiaries",
+        "episode_count": "16",
+        "genre": "Drama"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&19818d31-4d41-40f0-9a93-e5fd180eb6cd",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&587d1508-e8cf-426c-9eb2-666b3e1f094b"
+        ],
+        "classification": "R",
+        "title": "The Walking Dead",
+        "id": "20085382",
+        "name": "NZS_TheWalkingDead",
+        "episode_count": "8",
+        "genre": "Drama"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&dff46132-23d1-473c-805f-58745f7c483d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0f4fd17f-a766-499e-824e-7cebe70a8aec"
+        ],
+        "classification": "R",
+        "title": "The Wild Bunch",
+        "duration_minute": "135",
+        "id": "20120736",
+        "name": "NZM_1707_TheWildBunch",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f21daf63-6e8e-4123-9fec-b058408d8063",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3a5d62b8-6a5e-4a03-a38e-d76ac41bf376"
+        ],
+        "classification": "PG13",
+        "title": "The Wolverine",
+        "duration_minute": "126",
+        "id": "20117858",
+        "name": "NZM_1706_TheWolverine",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d6a222ae-e48a-47d6-b233-f1438b9a9ee4",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6d0d89ba-2f52-409e-9328-2c3895a5d01c"
+        ],
+        "classification": "PG13",
+        "title": "X-Men",
+        "duration_minute": "106",
+        "id": "20117825",
+        "name": "NZM_1706_XMen",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&836ab521-e832-4fb7-990c-b8170a2f41a0",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3baac514-151d-4f7c-90d5-951cc6bc009a"
+        ],
+        "classification": "PG13",
+        "title": "X-Men 2",
+        "duration_minute": "134",
+        "id": "20117833",
+        "name": "NZM_1706_XMen2",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&556756a1-e089-4468-87a8-4314fa606ee8",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&86a39e85-1212-42a0-abc5-b5b9bd0628b1"
+        ],
+        "classification": "PG13",
+        "title": "X-Men Origins: Wolverine",
+        "duration_minute": "107",
+        "id": "20117851",
+        "name": "NZM_1706_XMenOriginsWolverine",
+        "template": "movie",
+        "genre": "ActionThriller"
+    },
+    {
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d78b56be-bacd-47af-9b62-7a12b6726226",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ac893485-bddf-4935-9720-880b1c98205b"
+        ],
+        "classification": "PG13",
+        "title": "X-Men: The Last Stand",
+        "duration_minute": "104",
+        "id": "20117841",
+        "name": "NZM_1706_XMenTheLastStand",
+        "template": "movie",
+        "genre": "ActionThriller"
+    }
+]

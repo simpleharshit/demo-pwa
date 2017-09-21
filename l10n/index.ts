@@ -1,0 +1,1 @@
+export const eng = require("./en-IN.json");

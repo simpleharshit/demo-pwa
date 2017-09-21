@@ -1,0 +1,133 @@
+.header-banner {
+	width: 100%;
+	height: 60px;
+	background: #29000c;
+}
+
+.logo-1 {
+    margin: 0 0 0 -30px;
+	width: 160px;
+	height:auto;
+}
+
+.logo-2 {
+    margin-top: -12px;
+	width: 96px;
+    height: auto;
+    background-color: #29000c;
+    margin-left: -4px;
+}
+
+.header-content {
+	display: inline-flex;
+	float: right;
+	margin: 0px 10px;
+}
+
+.header-content a{
+text-decoration: none;
+}
+
+.weather-info {
+    margin-right: 100px;
+    font-family: 'EtihadAltis-Text';
+    text-align: right;
+}
+
+.weather-info::after {
+    content: '';
+    position: absolute;
+    margin-left: 80px;
+    top: 14px;
+    width: 1px;
+    height: 35px;
+    background: rgba(203, 169, 92, 0.2);
+}
+
+.temp-info{
+    display: inline-grid;
+    font-size: 12px; 
+	margin-top: 15px;
+}
+.temp-info .span1{
+    color: #fff;
+    margin: 0;
+}
+.temp-info .span2{
+    color: #fff;
+    opacity: 0.6;
+    margin: 0;
+}
+
+.weather-icon{
+    position: absolute;
+    width: 36px;
+    height: auto;
+    top: 15px;
+    margin-left: 14px;
+}
+.header-icon {
+    width: 18px;
+    height: 18px;
+    margin: 20px 14px;
+}
+
+.menu {
+	display: none;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .temp-info {
+        display: inline-grid;
+        font-size: 10px;}
+    
+    .weather-icon {
+        width: 26px;
+        height: auto;
+        margin-top: 14px;
+    }
+    .weather-info {
+       display: none;
+    }
+    .weather-info::after {
+        top: 8px;
+        margin-left: 14px;
+    }
+
+    .logo-2 {
+        margin-top: -9px;
+        margin-left: -4px;
+        width: 56px;
+        height: auto;
+    }
+    .header-icon {
+		display: none;
+    }
+    .logo-1 {
+        margin: 0 0 0 -30px;
+        width: 122px;
+    }
+    .header-banner {
+        height: 50px;
+    }
+	
+	.menu {
+		display: block;
+	}
+	.menu-icon {
+		width: 20px;
+		height: 20px;
+		margin: 15px 10px;
+	}
+	
+	.menu::before {
+		content: '';
+		position: absolute;
+		margin-left: -15px;
+		top: 7px;
+		width: 1px;
+		height: 36px;
+		background: rgba(203, 169, 92, 0.2);
+	}
+}

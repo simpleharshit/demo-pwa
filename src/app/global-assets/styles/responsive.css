@@ -1,0 +1,90 @@
+/*
+@media only screen and (max-width: 767px) {
+    .temp-info {
+        display: inline-grid;
+        font-size: 10px;}
+    
+    .weather-icon {
+        width: 26px;
+        height: auto;
+        margin-top: 14px;
+    }
+    .weather-info {
+       display: none;
+    }
+    .weather-info::after {
+        top: 8px;
+        margin-left: 14px;
+    }
+
+    .logo-2 {
+        margin-top: -12px;
+        width: 48px;
+        height: auto;
+    }
+    .header-icon {
+        width: 15px;
+        height: 15px;
+        margin: 18px 5px 0;
+    }
+    .logo-1 {
+        margin: 0 0 0 -30px;
+        width: 136px;
+    }
+    .header-banner {
+        height: 50px;
+    }
+    .navigation-tab {
+        height: 30px;
+    }
+    .navigation-tab ul {
+        font-size: 10px;
+    }
+    .navigation-tab li {
+        margin: 0px 6px;
+    }
+    
+    .trending p {
+        font-size: 20px;
+    }
+    
+    .subfooter-top {
+        padding: 20px 10px !important; }
+    
+    .footer-subtxt h6{
+        font-size: 12px;    
+    }
+    .footer-subtxt li {
+        font-size: 12px;
+    }
+    .subfooter-links {
+        text-align: center;
+    }
+    
+    .sublogo-footer {
+        width: 136px;
+    }
+    .media-icons {
+        padding: 5px 0px 0 0;
+    }
+    .social-logo {
+        width: 20px;
+    }
+    .faqlinks {
+        text-align: center;
+    }
+    .faqlinks span {
+        padding: 0 5px 0 15px;
+    }
+    .footer-rightsection {
+        font-size: 10px;
+        text-align: center;
+    }
+    
+    .footer-logo {
+    padding: 10px 0px 0;
+        width: 100px;
+    }
+}
+
+*/

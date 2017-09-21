@@ -1,0 +1,55 @@
+.navigation-tab {
+    text-align: center;
+    height: 40px;
+    background-color: #e5a72c;
+}
+
+.navigation-tab ul {
+    list-style: none;
+    padding: 0;
+    display: inline-flex;
+    margin: 10px 0;
+    color: #29000c;
+    font-family: 'EtihadAltis-Text';
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.navigation-tab li {
+    margin: 0px 20px;
+    cursor: pointer;
+}
+
+.navigation-tab li.active {
+    font-weight: bold;
+    outline: none;
+    position:relative;  
+
+}
+
+.navigation-tab li.active::after {
+    content: "";
+    width: 10px;
+    height: 24px;
+    background-image: url(./assets/images/Triangle.svg);
+    background-repeat: no-repeat;
+    position: absolute;
+    background-position: 0 20px;
+    left: 36%;
+
+}
+
+@media only screen and (max-width: 767px) {    
+    .navigation-tab {
+        height: 40px;
+    }
+    .navigation-tab ul {
+        font-size: 12px;
+    }
+    .navigation-tab li {
+        margin: 0px 10px;
+    }
+	.navigation-tab li.active::after {
+		background-position: 0 16px;
+	}
+}

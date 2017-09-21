@@ -1,0 +1,70 @@
+.carousel {	
+    background-color: #F2F2F2;
+    width: 100%;
+    margin: 0 auto;
+    height: 500px;
+}
+
+.trending, .recentlyadd {
+	height: 600px;
+    max-width: 1024px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #fff;
+	text-transform: uppercase;
+    padding: 30px 20px 0;
+    border-right: 1px solid rgba(151,151,151,0.4);
+    border-left: 1px solid rgba(151,151,151,0.4);
+}
+
+.trending p, .recentlyadd p{
+    font-family: 'EtihadAltis-Light';
+    font-size: 28px;
+    color: #29000c;
+    margin: 0 5px;
+}
+
+.recentlyadd {
+    background-color: #e2ddd5;
+  }
+  
+
+.etihad-content {
+    margin: -3px auto 0;
+    text-align: center;
+    background-color: #fff;
+    display: flex; 
+    max-width: 1024px;
+    border-right: 1px solid rgba(151,151,151,0.4);
+    border-left: 1px solid rgba(151,151,151,0.4);
+}
+
+.onboard-entertainment {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fff;
+    display: block; 
+    max-width: 1024px;
+    border-right: 1px solid rgba(151,151,151,0.4);
+    border-left: 1px solid rgba(151,151,151,0.4);
+}
+
+.border {
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+    .carousel {	
+        height: 433px;
+    }
+}
+
+@media screen and (max-width: 767px){
+        .carousel {	
+        height: 240px;
+    }
+    .etihad-content {
+        padding: 0 10%;
+        }
+}

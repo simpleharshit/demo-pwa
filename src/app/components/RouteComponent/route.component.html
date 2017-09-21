@@ -1,0 +1,15 @@
+<h1>This is the {{templateInfo.name}} route</h1>
+
+<div class="routelist">  
+	<div class="routelisting">
+		<nav class="navbg">
+			<ul>
+				<li *ngFor="let item of categoryList" ngClass="{{selected === item ? 'active' : ''}}" (click)="changeCategory(item)">
+					{{item ? item.displayText: ''}}
+				</li>
+			</ul>
+		</nav>
+	</div> 
+
+	<media-list-section *ngIf="category" [category]="category"></media-list-section>
+</div>

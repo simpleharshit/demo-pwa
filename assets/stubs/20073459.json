@@ -1,0 +1,665 @@
+[
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a20d7fb0-2776-4e6c-8ac1-87882424cb5a",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&16928901-f6b0-4360-83f3-e53965761420"
+        ],
+        "classification": "PG",
+        "title": "Shaaanxo",
+        "id": "20140589",
+        "name": "NZS_Shaaanxo",
+        "episode_count": "5",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d3f918bc-3bb3-4fad-9526-4942d2936630",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&19dd1b29-0461-41a3-80ac-b9a801dddb32"
+        ],
+        "classification": "R",
+        "title": "Darryl. An Outward Bound Story",
+        "id": "20140582",
+        "name": "NZS_DarrylAnOutwardBoundStory",
+        "episode_count": "10",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&554173ef-b50e-4838-b157-a124440e89bc",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d2a55f1c-6771-4608-b1dd-9ef1680a0832"
+        ],
+        "classification": "R",
+        "title": "Bhuja TV",
+        "id": "20140579",
+        "name": "NZS_BhujaTV",
+        "episode_count": "5",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e5a65cfa-dd23-4eb6-9440-cb695355b9d8",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&527b3181-5f83-4679-ab53-569b76acdae0"
+        ],
+        "classification": "PG",
+        "title": "NZ On Screen",
+        "id": "20140588",
+        "name": "NZS_NZOnScreen",
+        "episode_count": "5",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&91b9daf3-2430-4929-acec-9018ba7f7d75",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4a31b0fb-c54d-4331-8394-414fb39052fb"
+        ],
+        "classification": "PG",
+        "title": "Sitting Room Only",
+        "id": "20140590",
+        "name": "NZS_SittingRoomOnly",
+        "episode_count": "8",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&885bac34-850d-4d11-a1e8-7434c2c513ba",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6d4f745e-dcc1-4168-bcfa-44ccba06bf61"
+        ],
+        "classification": "R",
+        "title": "AFK",
+        "id": "20140573",
+        "name": "NZS_AFK",
+        "episode_count": "11",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&28632197-b79e-48da-aa69-bcad97ffdcac",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ea0ccfd8-1f6b-4f27-8e70-2fad1f1f3bd7"
+        ],
+        "classification": "PG",
+        "title": "Aotearoa's Most Talented",
+        "id": "20140577",
+        "name": "NZS_AotearoasMostTalented",
+        "episode_count": "7",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8e25a60e-3595-4b11-8f0e-82088e8a94a8",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&eeffae5d-3046-499f-9867-3bc2367bf3b4"
+        ],
+        "classification": "PG",
+        "title": "Brad McKinnon",
+        "id": "20140580",
+        "name": "NZS_BradMcKinnon",
+        "episode_count": "6",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&522743de-c60a-4c67-a433-397ede42eab3",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&bafe3a61-e09c-4f8d-ac84-f575d681612e"
+        ],
+        "classification": "R",
+        "title": "Cougar Boys",
+        "id": "20140581",
+        "name": "NZS_CougarBoys",
+        "episode_count": "5",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f8550efa-60ed-4ca9-b1dd-82d7a3b9448e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0e2a860c-8b51-4ffc-b32e-cc792d7caa8f"
+        ],
+        "classification": "R",
+        "title": "Friday Night Bites",
+        "id": "20140583",
+        "name": "NZS_FridayNightBites",
+        "episode_count": "6",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&960aa196-1f36-470e-a183-73aa40b3d021",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&161a6d61-99d5-4c31-872c-739d266914b7"
+        ],
+        "classification": "PG",
+        "title": "How to Dad",
+        "id": "20140584",
+        "name": "NZS_HowtoDad",
+        "episode_count": "6",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&78583a23-4bd3-40b9-8f97-72b3ac67d4c3",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b17bd9fc-6d4a-4f47-940e-f4acfc4d83fb"
+        ],
+        "classification": "PG",
+        "title": "Jamie's World On Ice",
+        "id": "20140585",
+        "name": "NZS_JamiesWorldOnIce",
+        "episode_count": "4",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&29e985be-90a6-41ab-b020-b2ce2995cabb",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c52747bf-b805-4f76-addd-bb45a70fa97f"
+        ],
+        "classification": "PG",
+        "title": "Living Big in a Tiny House",
+        "id": "20140586",
+        "name": "NZS_LivingBiginaTinyHouse",
+        "episode_count": "6",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a304cbc4-6c57-45e2-bbdb-ebf9aa7f58b7",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3a77a5c5-ac3e-4953-a601-42b518266e68"
+        ],
+        "classification": "PG13",
+        "title": "MSFT Productions",
+        "id": "20140587",
+        "name": "NZS_MSFTProductions",
+        "episode_count": "6",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4925a410-5e6f-4e1a-bd51-0fe6ae298170",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c023bfbf-a9aa-4d4a-a841-1d2d9c6f05e0"
+        ],
+        "classification": "PG",
+        "title": "Stoked for Saturday",
+        "id": "20140591",
+        "name": "NZS_StokedforSaturday",
+        "episode_count": "6",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0dedbe21-4e12-4ff0-a3c7-a06289514bb5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ecf5563d-4fdb-432d-9576-7b7142f09628"
+        ],
+        "classification": "PG13",
+        "title": "The Video Store",
+        "id": "20140592",
+        "name": "NZS_TheVideoStore",
+        "episode_count": "7",
+        "genre": "Bite Sized"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f821c700-398e-4155-b1e2-e071dc15b83e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b3a7beae-029c-47fe-8922-c78fbd7ff5b8"
+        ],
+        "classification": "PG",
+        "title": "7 Days Episode",
+        "id": "20118982",
+        "name": "NZS_7DaysEpisode",
+        "episode_count": "3",
+        "genre": "Comedy"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&99f92dda-0f7f-4417-9504-321c8f91d2ff",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3cc009b9-f781-445f-8d17-dbd3e8fecbd9"
+        ],
+        "classification": "R",
+        "title": "The ACC Presents: Champagne Rugby - Lions Special",
+        "id": "20122565",
+        "name": "NZS_ACCChampagneRugbyLionsSpecial",
+        "episode_count": "5",
+        "genre": "Comedy, Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8a439c5a-e0f3-4cdc-8b77-1676277b5e46",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9ef75c18-cb48-45e8-87cf-de22e9c1143d"
+        ],
+        "classification": "Not Rated",
+        "title": "Air NZ Fine Wines of NZ",
+        "id": "20114777",
+        "name": "NZS_AirNZFineWinesofNZ",
+        "episode_count": "1",
+        "genre": "Lifestyle"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&390293ee-9bf0-4637-b17a-4896250a4204",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3854bc57-a9e0-4dad-bbec-939b03784ecb"
+        ],
+        "classification": "PG13",
+        "title": "The Free Man",
+        "id": "20126412",
+        "name": "NZS_TheFreeMan",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2ae28c2b-85e9-45fc-8fd7-0347cd42d5f7",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&2c9a9ab7-c3e8-46c6-8c37-164d1c3b20b1"
+        ],
+        "classification": "Not Rated",
+        "title": "Air NZ Queenstown International Marathon",
+        "id": "20114778",
+        "name": "NZS_AirNZQueenstownInternationalMarathon",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9c9fe4b3-a4fc-4c36-b025-597007796b8f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ea49f4db-f2f3-4839-98ad-7b7d38e5ba4d"
+        ],
+        "classification": "PG13",
+        "title": "Chasing Great",
+        "id": "20074758",
+        "name": "NZS_ChasingGreat",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9cdc1135-5ef2-4ceb-8b0c-28678ecdb72f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&02baf558-3a81-4f91-a8d8-6cfec63b0c50"
+        ],
+        "classification": "PG",
+        "title": "Classic Restos - Burt Munro Challenge Invercargill",
+        "id": "20120750",
+        "name": "NZS_ClassicRestosBurtMunroChallengeInvercargill",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&b72e317e-5579-4993-b016-d5d36dd27772",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6a53ba29-2583-487f-aaa8-c59692787974"
+        ],
+        "classification": "G",
+        "title": "Driving Around New Zealand",
+        "id": "20114780",
+        "name": "NZS_DrivingAroundNewZealand",
+        "episode_count": "1",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d1674524-d29d-4ecb-8248-36a29f3a12a5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&56ab3683-5284-4a98-9a9b-c66e161dbe1b"
+        ],
+        "classification": "R",
+        "title": "Diaries DownUnder",
+        "id": "20120751",
+        "name": "NZS_DiariesDownUnder",
+        "episode_count": "6",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7128e051-f740-4e85-8a27-8b2c417fcad2",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e14294ef-429c-4bd4-b59f-d0061daf5d44"
+        ],
+        "classification": "G",
+        "title": "Discover Auckland",
+        "id": "20114779",
+        "name": "NZS_DiscoverAuckland",
+        "episode_count": "1",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&8d4d9d85-beb0-49d8-b307-c278c61fe2b9",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0a161e7e-4b19-44d1-8245-3ace515889fb"
+        ],
+        "classification": "G",
+        "title": "Driving in New Zealand",
+        "id": "20114781",
+        "name": "NZS_DrivinginNewZealand",
+        "episode_count": "1",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e30a2ace-98e0-4f6f-a71d-610fe0f6ac75",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&fd50893d-08cd-4366-b38b-cbaec9411ab2"
+        ],
+        "classification": "G",
+        "title": "Driving in NZ with Huang Lei",
+        "id": "20114782",
+        "name": "NZS_DrivinginNZwithHuangLei",
+        "episode_count": "3",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&75cfb269-95e0-4a6f-9df4-e1dbc7b2a376",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&603aa64f-86de-4b04-be0e-d9be5a760b78"
+        ],
+        "classification": "PG",
+        "title": "The First Haul - Bluff Oyster Season",
+        "id": "20120766",
+        "name": "NZS_TheFirstHaulBluffOysterSeason",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d87364cc-42fd-4995-936d-a48dbd3a4311",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1672aa12-87d2-4734-9582-2542e7f18729"
+        ],
+        "classification": "Not Rated",
+        "title": "Freedom Camping in NZ",
+        "id": "20114783",
+        "name": "NZS_FreedomCampinginNz",
+        "episode_count": "1",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7361fbee-d108-4027-ab4f-426caef7dba1",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1eaff7aa-79dd-4fe3-a3b5-9bdcd5d81732"
+        ],
+        "classification": "PG",
+        "title": "Holden Golf World",
+        "id": "20120753",
+        "name": "NZS_HoldenGolfWorld",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0bae91b5-665c-48b6-8d50-2b74bd33cb28",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&378bd50d-211d-4a08-9740-af72afd1eb77"
+        ],
+        "classification": "G",
+        "title": "Important Info about Driving in NZ",
+        "id": "20114784",
+        "name": "NZS_ImportantInfoAboutDrivinginNZ",
+        "episode_count": "9",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&25d1207c-848b-4a37-a4ed-1ce1207d9a4e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&a1536308-4b7e-4ad5-830c-93dc611f2424"
+        ],
+        "classification": "Not Rated",
+        "title": "IRONMAN New Zealand 2017",
+        "id": "20126416",
+        "name": "NZS_IronmanNZ2017",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&48453dd7-d5e6-4f45-8ca1-e37c5f259808",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&e7158513-e6b9-4ae3-b855-8fd1b91ed742"
+        ],
+        "classification": "PG",
+        "title": "Jono and Ben Episode",
+        "id": "20118981",
+        "name": "NZS_JonoAndBenEpisode",
+        "episode_count": "3",
+        "genre": "Comedy"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f6e7b4eb-6d19-4ce1-a925-ce73baf0dd7d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&d8f031dc-6e45-4833-904f-63ce7475b1c0"
+        ],
+        "classification": "G",
+        "title": "Little Action Kids",
+        "id": "20072509",
+        "name": "NZS_LittleActionKids",
+        "episode_count": "12",
+        "genre": "Kids"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&0e7b4392-0c03-4c7c-abd8-9860eb5a43d6",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&14d67338-0d6f-416b-81d2-dbe8e3850aaa"
+        ],
+        "classification": "G",
+        "title": "Love to Sing",
+        "id": "20074782",
+        "name": "NZS_LoveToSing",
+        "episode_count": "2",
+        "genre": "Kids"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6af07bc5-0eb7-4c70-98a3-06c47952d62b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&00f7289b-ab29-45d2-bdaf-5671a7a714b1"
+        ],
+        "classification": "PG",
+        "title": "McLaren",
+        "id": "20120758",
+        "name": "NZS_McLaren",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f448228e-a222-4e8d-9bff-d61f5316c0d6",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&788d88fa-0231-4bc6-8a48-75c66bf2f4f6"
+        ],
+        "classification": "PG",
+        "title": "'Ng\u0101 Atua M\u0101ori - The M\u0101ori Gods App Series",
+        "id": "20118976",
+        "name": "NZS_MaoriGods",
+        "episode_count": "8",
+        "genre": "NZ Choice"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1699f350-68dc-4da6-8bf0-a2db7739fa28",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&aa8581d7-eced-4642-8b8e-efaf0273d299"
+        ],
+        "classification": "PG",
+        "title": "Our NZ Escape",
+        "id": "20074790",
+        "name": "NZS_OurNZEscape",
+        "episode_count": "7",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&4ba07210-ea8d-4910-8f36-ee52868a4753",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f9fe7afd-7e65-468d-9338-16cf956676f3"
+        ],
+        "classification": "PG",
+        "title": "Pecking Order",
+        "id": "20120759",
+        "name": "NZS_PeckingOrder",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&81341d70-f13f-4ec5-82ba-f56e213b71d2",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&6687f081-8f56-47f5-8359-7f16c1b877b6"
+        ],
+        "classification": "Not Rated",
+        "title": "The Pioneer 2016",
+        "id": "20114785",
+        "name": "NZS_ThePioneer2016",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&47506cbb-5ac3-4ff2-bd70-3bf53993b21e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&27107511-7b74-400d-b60c-c84d149e9b16"
+        ],
+        "classification": "Not Rated",
+        "title": "The Pioneer 2017",
+        "id": "20126415",
+        "name": "NZS_ThePioneer2017",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f2eb8713-058f-4fed-9d71-b706b261856e",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&96f4d712-81e0-48c7-8fd9-0a7145e71f07"
+        ],
+        "classification": "Not Rated",
+        "title": "The Pitch",
+        "id": "20122564",
+        "name": "NZS_ThePitch",
+        "episode_count": "1",
+        "genre": "Music"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9da72bce-769d-4fea-81d7-42fe050f0a9b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f474123c-2f75-47fe-8eb4-785020aa92c5"
+        ],
+        "classification": "PG",
+        "title": "Real Pasifik",
+        "id": "20118143",
+        "name": "NZS_RealPasifik",
+        "episode_count": "1",
+        "genre": "Lifestyle"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&23ce91cd-1165-4fc9-80f8-4318f3f98d3b",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&1b9a95bb-4851-4907-bbb8-dfe1f2570dd5"
+        ],
+        "classification": "R",
+        "title": "Reset",
+        "id": "20085373",
+        "name": "NZS_Reset",
+        "episode_count": "2",
+        "genre": "Family"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&647b3009-16ea-4ed1-8134-d8cd1e2b714d",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7a03d4a5-7a4f-4da4-8303-e687b7062476"
+        ],
+        "classification": "PG",
+        "title": "Rocket Man: The Story of William H Pickering",
+        "id": "20118053",
+        "name": "NZS_RocketManTheStoryofWilliamHPickering",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&288f3b33-7e48-493c-879c-90eb57a04394",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&3fe0c75d-33c8-461d-9118-aa92e7162766"
+        ],
+        "classification": "G",
+        "title": "Safety Video For Chinese Visitors",
+        "id": "20114786",
+        "name": "NZS_SafetyVideoForChineseVisitors",
+        "episode_count": "1",
+        "genre": "Travel"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&add23047-2de4-4357-8fd6-1a6fbddf4703",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&653b1127-bdec-4199-9612-56e154fecbb0"
+        ],
+        "classification": "PG",
+        "title": "Sir John Kirwan\u2019s Top Auckland Picks",
+        "id": "20120764",
+        "name": "NZS_SirJohnKirwansTopAucklandPicks",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&721a99bb-69b4-4150-bcc5-b8adcc9a4aa6",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&ba7dcad9-060b-4e05-98cc-d418e11f50d0"
+        ],
+        "classification": "R",
+        "title": "Sheen of Gold",
+        "id": "20120763",
+        "name": "NZS_SheenofGold",
+        "episode_count": "1",
+        "genre": "Documentary"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&9d070641-282a-4038-84a6-2ec9cf8ae9f5",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&c2d61b6d-22b1-49f8-9327-93fe91f7391a"
+        ],
+        "classification": "PG",
+        "title": "Surfing the South Island of New Zealand",
+        "id": "20118184",
+        "name": "NZS_SurfingtheSouthIslandofNewZealand",
+        "episode_count": "1",
+        "genre": "Sport"
+    },
+    {
+        "template": "tv_series",
+        "thumbnail": [
+            "https://dummyimage.com/400x600/000/fff&text=myImage&7e20d7d7-8e7b-4582-a3e3-53d9bba5fd8f",
+            "https://dummyimage.com/400x600/000/fff&text=myImage&f14bf7db-d8cf-442d-b083-23c79779b9ec"
+        ],
+        "classification": "R",
+        "title": "Toa Hunter Gatherer",
+        "id": "20118160",
+        "name": "NZS_ToaHunterGatherer",
+        "episode_count": "1",
+        "genre": "Lifestyle"
+    }
+]

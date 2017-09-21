@@ -1,0 +1,108 @@
+    .hidelisting{
+        display: block !important;
+    }
+    .routelist{        
+        margin: 0px auto;
+        max-width: 1400px; 
+        display: none;
+    }
+    .routelisting .navbg {
+        text-align: left;        
+    }
+
+    .routelisting {
+        margin: 50px 0px 0px;
+        padding: 0px 10px;
+    }
+
+    .routelisting ul {
+        list-style: none;
+        padding: 0;
+        display: inline-flex;
+        margin: 0 25px;
+        color: #29000c;
+        font-family: 'EtihadAltis-Text';
+        text-transform: uppercase;
+        font-size: 14px;
+    }
+
+    .routelisting li {
+        margin: 0px 50px 0px 0px;
+        cursor: pointer;
+        border-bottom: 3px solid rgba(208, 162, 51, 0);
+    }
+
+    .routelisting li.active {
+        color: #d0a233;
+        border-bottom: 3px solid #d0a233;
+    }
+
+    @media only screen and (max-width: 1420px) and (min-width: 1280px) {
+        .routelist{        
+            width: 1280px; 
+            display: none;
+        }
+    }
+
+    @media only screen and (max-width: 1279px) and (min-width: 1024px) {
+        .routelist{        
+            width: 1024px; 
+            display: none;
+        }
+    }
+
+    @media only screen and (max-width: 1023px) and (min-width: 815px) {
+        .routelist{        
+            width: 800px;  
+            display: none;
+        }
+    }
+
+    @media only screen and (min-width: 768px) and (max-width: 814px) {
+        .routelist{        
+            width: 610px; 
+            display: none;
+        }
+    }
+
+    @media only screen and (max-width: 767px) {
+        .routelist{        
+            width: 610px;
+            display: none;
+        }
+
+        .routelisting li {
+            margin: 0px 20px;
+        }
+
+        .routelisting .navbg {
+            text-align: center;
+        }
+    }
+
+    @media only screen and (max-width: 627px) and (min-width: 500px) {
+        .routelist{        
+            width:490px;  
+            display: none;
+        }
+    }
+
+    @media only screen and (max-width: 499px) and (min-width: 350px) {
+        .routelist{        
+            width:350px;  
+            display: none;
+        }
+    }
+
+    @media only screen and (max-width: 349px) and (min-width: 320px) {
+        .routelist{        
+            width:300px; 
+            display: none;
+        }
+
+        .routelisting {
+            margin: 50px 0px 0px;
+            padding: 0px;
+        }
+    }
+
